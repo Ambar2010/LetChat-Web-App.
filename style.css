@@ -38,12 +38,13 @@ background-image: linear-gradient(to right top, #bbb3b3, #a5a9ac, #9c9fa0, #878a
 {
 	cursor: pointer;
 	font-size: 20px;
+	color: rgb(53, 51, 175);
 }
 
 
 #logout
 {
-	font-size: 20px; float: right;
+	font-size: 15px; float: right;
 }
 
 
